@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d63767f5-b178-4c4b-bffa-b4619ad5d67e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="ffd784c2-b951-44aa-b950-8f5553648cb3" />
+  <component name="ProjectId" id="2ehGNMr5jvkJtpJTAWOjAhlmlKY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d63767f5-b178-4c4b-bffa-b4619ad5d67e" name="Default Changelist" comment="" />
+      <created>1712349355388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712349355388</updated>
+      <workItem from="1712349357564" duration="1260000" />
+      <workItem from="1712350632996" duration="4044000" />
+      <workItem from="1712362417296" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1374" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1712349481994">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1374" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1712349481994" />
+    <state x="1421" y="162" key="SettingsEditor" timestamp="1712351558000">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1421" y="162" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1712351558000" />
+    <state x="1616" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1712362419152">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1616" y="344" key="com.intellij.ide.util.TipDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1712362419152" />
+  </component>
+</project>
