@@ -1,0 +1,5 @@
+mySql
+python:
+  pandas
+  myplotlib.pyplot
+  numpy
